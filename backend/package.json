@@ -1,0 +1,25 @@
+{
+  "name": "covid-tracker",
+  "version": "1.0.0",
+  "description": "a covid tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "covid"
+  ],
+  "author": "mjchang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.11",
+    "@types/node": "^15.0.0",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  }
+}
