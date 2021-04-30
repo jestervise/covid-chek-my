@@ -2,8 +2,9 @@
 A covid tracker for malaysian
 
 ### BACKEND
-
-
+   Run the command below (if first time)
+   >npm install
+   
 **1.** create a new .env file, you may refer to the .env.example file
 
 **2.** start the server with this command
@@ -12,7 +13,10 @@ A covid tracker for malaysian
 **3.** Start coding
 
 ### FRONTEND
-
+Run the command below (if first time)
+   >npm install -g expo-cli
+   >npm install
+   
 **1.** start the local app server with this command
    >expo start
 
